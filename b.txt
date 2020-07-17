@@ -1,1 +1,2 @@
 second file
+change in b.txt
